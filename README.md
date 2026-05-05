@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains the official privacy documentation for the **NUdgeUp** application available on the Google Play Store.
+This repository contains the official privacy documentation for the **NudgeUp** application available on the Google Play Store.
 
 ## Resources
 
